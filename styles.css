@@ -10,6 +10,9 @@
  * Copyright 2011-2022 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  */
+#interests {
+    margin-bottom: 0; /* Elimina el margen inferior de la sección */
+}
 :root {
   --bs-blue: #0d6efd;
   --bs-indigo: #6610f2;
